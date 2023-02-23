@@ -1,0 +1,13 @@
+.wrapper {
+    display: grid;
+    grid-template-columns: 200px 200px 200px;
+    column-gap: 20px;
+    row-gap: 1em;
+}
+
+body {
+    border-style: solid;
+    border-width: 3px;
+    border-radius: 10px;
+    padding: 10px;
+}
